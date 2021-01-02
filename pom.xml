@@ -15,6 +15,8 @@
         <module>icemall-order</module>
         <module>icemall-product</module>
         <module>icemall-ware</module>
+        <module>renren-fast</module>
+        <module>icemall-common</module>
     </modules>
 
 
